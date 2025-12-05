@@ -22,7 +22,7 @@ MyToken is a simple ERC-20 compatible token built on Ethereum for learning purpo
 
 \## Repository
 
-\[GitHub Repo](https://github.com/YourUsername/MyTokenProject)
+\[GitHub Repo](https://github.com/guravani-prasanna/MyTokenProject)
 
 
 
@@ -63,7 +63,5 @@ MyToken is a simple ERC-20 compatible token built on Ethereum for learning purpo
 ```solidity
 
 balanceOf(address) → returns uint256
-## Repository
 
-\[GitHub Repo](https://github.com/guravani-prasanna/MyTokenProject)
 
